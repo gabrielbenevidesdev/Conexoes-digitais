@@ -25,8 +25,8 @@ if (foto && c.foto) {
     foto.hidden = true;
   });
 
-  foto.src = c.foto;
-}x
+foto.src = c.foto;
+}
 
   // Contatos
   var links = {
